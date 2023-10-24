@@ -3,6 +3,31 @@
     padding: 0;
     font-family: 'Open Sans', sans-serif;
 }
+img{
+    max-width: 100%;
+}
+.btn{
+    width: 147px;
+    height: 56px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #FD6E0A;
+    color: #fff;
+    border-radius: 20px;
+    border: 0;
+    padding: 18px 35px;
+}
+.btnd{
+    width: 191px;
+    height: 64px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #FD6E0A;
+    color: #fff;
+    border-radius: 24px;
+    border: 0;
+    margin-top: 15px;
+}
 .orang{
     color: #FD6E0A ;
 }
@@ -17,8 +42,35 @@
 }
 .navber ul{
     display: flex;
+    align-items: center;
 }
 .navber ul li{
     list-style: none;
     margin:29px 19px;
+}
+.banner-part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-part{
+    margin-left: 250px;
+    width: 45%;
+}
+.hi{
+    font-size: 34px;
+    font-weight: 600;
+}
+.name{
+    font-size: 54px;
+    font-weight: 800;
+}
+.discription{
+    font-size: 15px;
+    color: #757575;
+    margin: 10px 0;
+}
+.img{
+    width: 53%;
+    margin-right: 48px;
 }
