@@ -202,3 +202,60 @@ img{
 hr{
     margin: 20px 0;
 }
+.art{
+    font-size: 18px;
+    width: 200px;
+    border-radius: 6px;
+}
+.button{
+    width: 20%;
+    margin: 60px auto 30px;
+}
+footer{
+    background-color: #FFF8F3;
+    /* height: 400px; */
+}
+.footer-part{
+    display: flex;
+    gap: 10px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.footer-social{
+    margin-top: 100px;
+    margin-left: 74px;
+}
+.footer-items{
+    margin-top: 100px;
+    margin-left: 41px;
+    margin-right: -24px;
+    
+}
+
+input , textarea {
+    margin-bottom: 20px;
+    width: 100%;
+    border: none;
+    padding: 13px;
+}
+.footer-title{
+    margin-bottom: 20px;
+}
+input{
+    height: 28px ;
+}
+.img-all{
+    display: flex;
+}
+.footer-description{
+    margin-bottom: 15px;
+    color: #474747;
+    font-size: 14px;
+}
+.img-parts{
+    margin-right: 10px;
+}
+.at{
+    border-radius: 7px;
+}
