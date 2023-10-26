@@ -17,6 +17,17 @@ img{
     border: 0;
     padding: 18px 35px;
 }
+.contact{
+    width: 180px;
+    height: 62px;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: transparent;
+    color: #FD6E0A;
+    margin-left: 19px;
+    border-radius: 9px;
+    border: 1px solid #FD6E0A;
+}
 .btnd{
     width: 191px;
     height: 64px;
@@ -204,7 +215,7 @@ hr{
 }
 .art{
     font-size: 18px;
-    width: 200px;
+    width: 215px;
     border-radius: 6px;
 }
 .button{
